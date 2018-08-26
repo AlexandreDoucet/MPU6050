@@ -3,7 +3,7 @@ A simple library to setup the MPU6050 6 axis Gyro/Accelerometer
 
 ## Yet another MPU6050 project?
 There are plenty of tutorials on how to setup the MPU6050. This project isn't intended to revolutionise this, it's for educational use.
-Bellow I liked the tutorials I used to write it which you could use to understand how it is done.  
+Bellow I linked the tutorials I used to write it which you could use to understand how it is done.  
 
 ## Installation
 Nothing too complicated for this. Include the MPU6050.h into your project and declare an MPU6050 object. In the set-up, call ConnectMPU folowed by CalibrateMPU and your MPU6050 should be ready.

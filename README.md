@@ -15,7 +15,7 @@ The values are stored in the gyro_RPY member of the MPU6050.h.
 ### Hardware
 - MPU6050
 - Arduino that uses an ATmega328P chip*. ( Uno, nano , etc)
-* I think the code could still work for other arduinos but the wiring would be different and I used interrupts for the timer which is dependant on the chip.
+** I think the code could still work for other arduinos but the wiring would be different and I used interrupts for the timer which is dependant on the chip.
 
 #### Circuit
 <img src="/Ressources/Images/Sketch.png" width="500">

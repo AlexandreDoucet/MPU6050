@@ -30,7 +30,7 @@ Alexandre Doucet (_Doucet_)</br>
 Most of my code comes from these tutorials. If you want check them out.
 
 Joop Brokking 
-[![Link to youtube video](https://www.youtube.com/watch?v=4BoIE8YQwM8)](https://www.youtube.com/watch?v=4BoIE8YQwM8)
+[![Link to youtube video](https://img.youtube.com/vi/4BoIE8YQwM8/0.jpg)](https://www.youtube.com/watch?v=4BoIE8YQwM8)
 EEEnthusiast 
-[![Link to youtube video](https://www.youtube.com/watch?time_continue=2&v=M9lZ5Qy5S2s)](https://www.youtube.com/watch?time_continue=2&v=M9lZ5Qy5S2s)
+[![Link to youtube video](https://img.youtube.com/vi/M9lZ5Qy5S2s/0.jpg)](https://www.youtube.com/watch?v=M9lZ5Qy5S2s)
 

@@ -17,8 +17,8 @@ The values are stored in the gyro_RPY member of the MPU6050.h.
 - Arduino that uses an ATmega328P chip.
 
 #### Circuit
+<img src="/Ressources/Images/Sketch.png" width="500">
 
-<img src="/Ressources/Sketch.png" width="500">
 
 
 ## Credits
@@ -29,5 +29,7 @@ Alexandre Doucet (_Doucet_)</br>
 ### External ressources
 Most of my code comes from these tutorials. If you want check them out.
 
-Joop Brokking [![Link to youtube video]https://www.youtube.com/watch?v=4BoIE8YQwM8]
-EEEnthusiast [![Link to youtube video]https://www.youtube.com/watch?time_continue=2&v=M9lZ5Qy5S2s]
+Joop Brokking 
+[![Link to youtube video(https://www.youtube.com/watch?v=4BoIE8YQwM8)
+EEEnthusiast 
+[![Link to youtube video(https://www.youtube.com/watch?time_continue=2&v=M9lZ5Qy5S2s)

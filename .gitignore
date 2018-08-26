@@ -1,5 +1,5 @@
-*
-!Resources/
+/*
+!/Ressources/
 !.gitignore
 !*.ino
 !*.cpp

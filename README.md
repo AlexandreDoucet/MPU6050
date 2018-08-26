@@ -18,7 +18,7 @@ The values are stored in the gyro_RPY member of the MPU6050.h.
 
 #### Circuit
 
-<img src="/Ressources/Images/Sketch.png" width="500">
+<img src="/Ressources/Sketch.png" width="500">
 
 
 ## Credits

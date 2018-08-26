@@ -29,7 +29,7 @@ Alexandre Doucet (_Doucet_)</br>
 ### External ressources
 Most of my code comes from these tutorials. If you want check them out.
 
-Joop Brokking 
-[![Link to youtube video(https://www.youtube.com/watch?v=4BoIE8YQwM8)
-EEEnthusiast 
-[![Link to youtube video(https://www.youtube.com/watch?time_continue=2&v=M9lZ5Qy5S2s)
+Joop Brokking <br/>
+[![Link to youtube video](https://img.youtube.com/vi/4BoIE8YQwM8/0.jpg)](https://www.youtube.com/watch?v=4BoIE8YQwM8) <br/>
+EEEnthusiast <br/>
+[![Link to youtube video](https://img.youtube.com/vi/M9lZ5Qy5S2s/0.jpg)](https://www.youtube.com/watch?v=M9lZ5Qy5S2s)<br/>
